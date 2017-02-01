@@ -47,6 +47,12 @@
             android:layout_weight="1"
             android:text="@string/dummy_button"
             android:layout_gravity="center_horizontal|bottom" />
+
+        <ListView
+            android:layout_width="110dp"
+            android:layout_height="596dp"
+            android:id="@+id/simple_list_item_1"
+            android:layout_gravity="left|center_vertical"/>
     </FrameLayout>
 
 </FrameLayout>
